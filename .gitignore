@@ -5,3 +5,4 @@ venv/
 *.keras
 *.h5
 *.log
+*.pdf
