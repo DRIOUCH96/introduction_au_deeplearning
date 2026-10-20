@@ -7,3 +7,5 @@ venv/
 *.log
 *.pdf
 tmp/
+disours_oral_presentation/
+discours_oral_presentation/
